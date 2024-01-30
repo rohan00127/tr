@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const port = rocess. env. PORT || 2421;
+const port = process. env. PORT || 2421;
 require("./database/connection")
 const router = require("./router/routes")
 
